@@ -1,0 +1,2 @@
+number_of_stations,total_fast_chargers,total_slow_chargers,total_estimated_power_kw,average_demand_score,average_land_cost_proxy,average_construction_suitability,average_grid_capacity_proxy,average_grid_overload_risk
+20,99,150,18150.0,0.825547394156456,0.8145000010728836,0.844000019133091,0.6189303202554584,0.38920945636928084

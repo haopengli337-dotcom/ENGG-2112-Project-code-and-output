@@ -1,0 +1,2 @@
+best_val_loss,full_map_mae,full_map_rmse,full_map_r2,num_patches,train_patches,val_patches,input_channels
+0.000916169592528604,0.00890638679265976,0.016193028539419174,0.9390742647209981,174,140,34,41
