@@ -1,0 +1,20 @@
+# =========================
+# requirements.txt
+# =========================
+
+numpy
+pandas
+matplotlib
+scikit-learn
+
+torch
+torchvision
+
+networkx
+
+pymoo
+
+geopandas
+shapely
+
+tqdm
